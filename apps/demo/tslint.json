@@ -1,0 +1,17 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "toProductionWithJustOneCommandTalk",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "to-production-with-just-one-command-talk",
+      "kebab-case"
+    ]
+  }
+}
